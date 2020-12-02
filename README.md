@@ -1,24 +1,16 @@
 # weatherapp
 
-## Project setup
-```
-npm install
-```
+## About Project
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+This is simple page application made using Vue, Axios to fetch data from OpenWeather API.
+Entering country or city name to input field will lead you to get actual weather up to date.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Things to be done:
 
-### Lints and fixes files
-```
-npm run lint
-```
+- changing the background image to be relevant to additional weather info.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+For example. If it snows in the following city to be displayed the relevant background image and snow animation
+
+## Live Preview
+
+You can see the following app working here: https://weathervueapp.netlify.app/
